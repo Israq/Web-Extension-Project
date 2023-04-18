@@ -1,7 +1,7 @@
 
 # Chrome Extension for Youtube Bookmark
 
-This is a Chrome browser extension. Which can be used to Bookmark any youtybe video with a timestamp.
+This is a Chrome browser extension. Which can be used to Bookmark any youtube video with a timestamp.
 
 
 ## What the extension does
