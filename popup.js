@@ -31,7 +31,7 @@ const viewBookmarks = (currentBookmarks=[]) => {
       addNewBookmark(bookmarksElement, bookmark);
     }
   } else {
-    bookmarksElement.innerHTML = '<i class="row">No bookmarks to show</i>';
+    bookmarksElement.innerHTML = '<i class="row">Bookmarks Not Available</i>';
   }
 
   return;
@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   } else {
     const container = document.getElementsByClassName("container")[0];
 
-    container.innerHTML = '<div class="title">This is not a youtube video page.</div>';
+    container.innerHTML = '<div class="title">Not a Youtube Page.</div>';
   }
    //showing tab information 
     //if not youtube then alert the user with message
