@@ -1,5 +1,5 @@
 import { getActiveTabURL } from "./utils.js";
-
+// adding a new bookmark row to the popup
 const addNewBookmark = (bookmarks, bookmark) => {
   const bookmarkTitleElement = document.createElement("div");
   const controlsElement = document.createElement("div");
@@ -89,4 +89,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     container.innerHTML = '<div class="title">This is not a youtube video page.</div>';
   }
+   //showing tab information 
+    //if not youtube then alert the user with message
 });
+//load bookmarks and show them
