@@ -12,7 +12,10 @@ This is a Chrome browser extension. Which can be used to Bookmark any youtube vi
 4. Delete the saved bookmark.
 
 
-## Demo
+## How to Load Unpack and use the extension:
 
-Insert gif or link to demo
+Step 1: Open the terminal and write 
+  ``` bash 
+      git clone 
+
 
