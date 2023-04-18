@@ -9,4 +9,4 @@ chrome.tabs.onUpdated.addListener((tabId, tab) => {
       });
     }
   });
-  
+//videoId selects the uniqueid of a video https://www.youtube.com/watch?v=Vus3KQWevxs here"Vus3KQWevxs" is the unique id.
