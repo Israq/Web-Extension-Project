@@ -33,4 +33,16 @@ Step 4: In Settings page click the Extension option:
 
 <img width="277" alt="Screenshot 2023-04-18 at 5 51 48 PM" src="https://user-images.githubusercontent.com/35467653/232773941-03fdcd33-e5f0-424b-9561-f53f5eb94a08.png">
 
-Ste
+Step 5: On the Extension page turn on the developer tools:
+
+<img width="199" alt="Screenshot 2023-04-18 at 5 52 13 PM" src="https://user-images.githubusercontent.com/35467653/233020943-2ed51881-97a2-4eee-b470-1395ca55edde.png">
+
+Step 6: Click on the Load Unpacked:
+
+<img width="472" alt="Screenshot 2023-04-18 at 5 52 25 PM" src="https://user-images.githubusercontent.com/35467653/233021365-9ab83367-6633-4ac8-a655-3fd592658222.png">
+
+Step 7: Open the folde where the downloaded file is present(Step 1):
+
+<img width="809" alt="Screenshot 2023-04-18 at 5 56 27 PM" src="https://user-images.githubusercontent.com/35467653/233022046-a929ea29-e355-4e2e-a5e8-84b77065eacd.png">
+
+Step 8: Click "select" to enable the extension.
