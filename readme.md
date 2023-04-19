@@ -10,6 +10,8 @@ This is a Chrome browser extension. Which can be used to Bookmark any youtube vi
 2. Gives the timestamp of the bookmark.
 3. Replay the video from the saved timestamp.
 4. Delete the saved bookmark.
+5. Show bookmark satatus of avalability.
+6. Notify if the tab is not Youtube.
 
 
 ## Demo
