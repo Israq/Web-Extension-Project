@@ -12,6 +12,14 @@ This is a Chrome browser extension. Which can be used to Bookmark any youtube vi
 4. Delete the saved bookmark.
 5. Notify user if it's not youtube page.
 
+
+## Tech Stack
+
+**Html5**/
+**Css3**/
+**Manifest V3**
+
+
 ## How to Load Unpack and use the extension:
 
 Step 1: Open the terminal and write 
