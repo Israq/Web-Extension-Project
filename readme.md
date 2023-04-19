@@ -17,6 +17,7 @@ This is a Chrome browser extension. Which can be used to Bookmark any youtube vi
 
 **Html5**/
 **Css3**/
+**JavaScript**/
 **Manifest V3**
 
 
